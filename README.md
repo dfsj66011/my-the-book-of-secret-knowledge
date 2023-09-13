@@ -36,7 +36,6 @@ Only main chapters:
 ##### Shells
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://tcl-lang.org/"><b>tclsh</b></a> - is a very powerful cross-platform shell, suitable for a huge range of uses.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - is a framework for using, developing and maintaining shell scripts and custom commands.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
